@@ -39,7 +39,7 @@ import Hijab from "../assets/images/hijab.png";
       <RouterLink to="/tshirt">
         <ArticleCard
           :thumbnail="TShirt"
-          name="Nike Sportswear Club"
+          name="Ekin Sportswear Club"
           type="T-shirt pour Homme"
           :price="24.99"
         />

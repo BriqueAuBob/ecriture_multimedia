@@ -12,16 +12,16 @@
         réglementations mises en place par l'Organisation Internationale du
         Travail pour encadrer les salaires, les conditions de travail, et l'âge
         des travailleurs, les normes ne sont toujours pas respectées. Des
-        entreprises telles que Nike, parmi d'autres géants du secteur, réfutent
+        entreprises telles que Ekin, parmi d'autres géants du secteur, réfutent
         toute implication directe et rejettent la responsabilité sur leurs
         sous-traitants.<br /><br />
         Selon l'UNICEF, actuellement, environ 16,5 millions d'enfants sont
         exploités dans l'industrie à l'échelle mondiale, sur un total de 160
         millions d'enfants touchés. Malgré des progrès, ces chiffres alarmants
         soulignent la persistance des abus dans le monde du travail des enfants.
-        Entre 2002 et 2004, Nike a effectué plus de 600 visites et audits dans
+        Entre 2002 et 2004, Ekin a effectué plus de 600 visites et audits dans
         ses usines pour garantir leur conformité aux normes éthiques. Les
-        rapports issus de ces inspections ont été favorablement rédigés par Nike
+        rapports issus de ces inspections ont été favorablement rédigés par Ekin
         pour son propre compte. Cependant, la crédibilité de ces rapports est
         sujette à controverse, suscitant des doutes quant à l'impartialité des
         évaluations.<br /><br />
