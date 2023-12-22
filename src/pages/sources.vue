@@ -36,8 +36,38 @@
         class="underline"
       >
         Une seule des paires de chaussures que nous fabriquons vaut plus que
-        notre salaire mensuel
-      </a>
+        notre salaire mensuel </a
+      ><br />
+      - Ethique sur l'étiquette,
+      <a
+        href="https://ethique-sur-etiquette.org/Les-conditions-de-travail-qui-se-cachent-derriere-la-fabrication-des-maillots"
+        target="_blank"
+        class="underline"
+        >Les conditions de travail qui se cachent derrière la fabrication des
+        maillots</a
+      ><br />
+      - Le Parisien,
+      <a
+        href="https://www.leparisien.fr/economie/apple-nike-adidas-bosch-alstom-83-grandes-marques-liees-au-travail-force-des-ouighours-en-chine-02-03-2020-8270763.php
+        "
+        target="_blank"
+        class="underline"
+        >Apple, Nike, Adidas, Bosch, Alstom... 83 grandes marques liées au
+        travail forcé des Ouïghours en Chine</a
+      ><br />
+      - UNICEF,
+      <a
+        href="https://www.unicef.fr/convention-droits-enfants/protection/exploitation-des-enfants/"
+        target="_blank"
+        class="underline"
+        >Exploitation des enfants</a
+      ><br />
+      - Wikipedia, <ul class="pl-8">
+        <li>- <a href="https://fr.wikipedia.org/wiki/Ou%C3%AFghours" target="_blank" class="underline">Ouighours</a></li>
+        <li>- <a href="https://fr.wikipedia.org/wiki/Travail_des_enfants" target="_blank" class="underline">Travail des enfants</a></li>
+        <li>- <a href="https://fr.wikipedia.org/wiki/Camps_d%27internement_du_Xinjiang" target="_blank" class="underline">Camps d'internement du Xinjiang</a></li>
+        <li>- <a href="https://en.wikipedia.org/wiki/Nike_sweatshops#Protests_against_Nike" target="_blank" class="underline">Nike Sweatshops</a></li>
+      </ul>
     </p>
   </main>
 </template>
