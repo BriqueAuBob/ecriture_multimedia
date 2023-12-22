@@ -24,8 +24,8 @@
       femmes ouïghoures qui sont soumises au travail forcé. Dans une réalité où
       la liberté individuelle est bafouée au nom de la lutte contre
       l'extrémisme, Patigul se retrouve à travailler dans des conditions
-      déplorables au sein d'ateliers de marques de vêtements comme Nike, Adidas,
-      ou Shein. Ses journées interminables débutent tôt le matin, et elle est
+      déplorables au sein d'ateliers de marques de vêtements comme Ekin, Adadas,
+      ou Shien. Ses journées interminables débutent tôt le matin, et elle est
       constamment surveillée par des gardiens armés.
       <br />
       <br />
