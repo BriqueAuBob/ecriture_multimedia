@@ -1,6 +1,9 @@
 <script setup>
 import Button from "../components/Button.vue";
 import ArticleCard from "../components/ArticleCard.vue";
+import AirMax from "../assets/images/97.png";
+import TShirt from "../assets/images/t-shirt.png";
+import Hijab from "../assets/images/hijab.png";
 </script>
 
 <template>
@@ -33,19 +36,26 @@ import ArticleCard from "../components/ArticleCard.vue";
   <section class="container py-16">
     <h2 class="mb-4 font-semibold text-xl">Articles</h2>
     <div class="grid md:grid-cols-3 gap-4">
-      <ArticleCard
-        thumbnail="https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.5/h_515,c_limit/jxfexgbkvpkmynfrgwaj/chaussettes-de-training-mi-mollet-everyday-cushioned-FJSFHQ.png"
-        name="Chaussettes de training mi-mollet (3 paires)"
-        :price="15"
-      />
-      <RouterLink to="/chaussures">
-        <ArticleCard name="Air Max 97" :price="189.99" />
+      <RouterLink to="/tshirt">
+        <ArticleCard
+          :thumbnail="TShirt"
+          name="Nike Sportswear Club"
+          type="T-shirt pour Homme"
+          :price="24.99"
+        />
       </RouterLink>
-      <ArticleCard
-        thumbnail="https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.5/h_515,c_limit/d640a173-1355-4bf8-ade6-bc00df4a9144/survetement-sportswear-club-fleece-pour-ado-wndvgj.png"
-        name="Pantalon Jordan Flight Fleece pour Femme"
-        :price="80"
-      />
+      <RouterLink to="/chaussures">
+        <ArticleCard name="Air Max 97" :price="189.99" :thumbnail="AirMax" />
+      </RouterLink>
+      <RouterLink to="/hijab">
+        <ArticleCard
+          :thumbnail="Hijab"
+          name="Hijab de l'Injustice"
+          type="Hijab de bain pour Femme"
+          :price="54.99"
+          noImagePadding
+        />
+      </RouterLink>
     </div>
   </section>
 </template>

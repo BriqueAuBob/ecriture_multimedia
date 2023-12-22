@@ -35,7 +35,10 @@
       du chic, cachent l'ombre d'une réalité sinistre. Les rapports indiquent
       que les femmes ouïghoures détenues sont forcées de travailler dans des
       conditions proches de l'esclavage, sans rémunération décente et sans
-      possibilité de quitter leur lieu de travail.
+      possibilité de quitter leur lieu de travail. De plus, des « examens
+      gratuits » leur sont proposés, dont le seul but est de les soumettre à une
+      stérilisation, que ce soit par ligature des trompes ou par l'insertion
+      forcée d'un stérilet.
       <br />
       <br />
       Les organisations de défense des droits de l'homme, les enquêtes

@@ -30,6 +30,14 @@ const router = createRouter({
       path: "/sources",
       component: () => import("./pages/sources.vue"),
     },
+    {
+      path: "/tshirt",
+      component: () => import("./pages/tshirt.vue"),
+    },
+    {
+      path: "/hijab",
+      component: () => import("./pages/hijab.vue"),
+    },
   ],
 });
 

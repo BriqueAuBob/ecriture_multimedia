@@ -4,8 +4,7 @@ import PriceInEuro from "../composables/PriceInEuro";
 const props = defineProps({
   thumbnail: {
     type: String,
-    default:
-      "https://static.nike.com/a/images/t_default/76b430e5-ed15-4864-99c8-3898162b966a/chaussure-air-max-97-pour-915npJ.png",
+    required: true,
   },
   name: {
     type: String,
@@ -19,6 +18,10 @@ const props = defineProps({
     type: Number,
     default: 0,
   },
+  noImagePadding: {
+    type: Boolean,
+    default: false,
+  },
 });
 
 const { priceInEuro } = PriceInEuro(props.price);
@@ -27,7 +30,8 @@ const { priceInEuro } = PriceInEuro(props.price);
 <template>
   <article class="group cursor-pointer">
     <div
-      class="bg-neutral-100 p-4 rounded-xl ease-in duration-200 group-hover:bg-neutral-200 group-hover:-translate-y-1"
+      class="bg-neutral-100 rounded-xl ease-in duration-200 group-hover:bg-neutral-200 group-hover:-translate-y-1"
+      :class="!noImagePadding ? 'p-4' : 'overflow-hidden'"
     >
       <img
         :src="thumbnail"
