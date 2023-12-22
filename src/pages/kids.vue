@@ -3,7 +3,6 @@
     <img src="../assets/images/kid.jpg" class="w-full h-full object-cover" />
     <div class="p-8">
       <h1 class="font-bold text-2xl">Amin Al-Farsi</h1>
-
       <p class="mt-4">
         Vous avez probablement déjà vu cette image d'un enfant pakistanais
         cousant le célèbre swoosh sur un ballon, au sein d'un environnement

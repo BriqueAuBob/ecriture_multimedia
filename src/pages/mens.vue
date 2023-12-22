@@ -1,5 +1,7 @@
 <template>
   <div class="container py-12">
+    <h1 class="font-bold text-2xl">Apu Chakraborty</h1>
+    <h2 class="text-xl mt-2">Cultivateur</h2>
     <p>
       Apu Chakraborty, 39 ans, incarne le quotidien difficile des cultivateurs
       indiens dans la région du Pendjab, où les vastes champs de coton dessinent
